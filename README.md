@@ -1,2 +1,0 @@
-# ToshGO
-The ToshGO Project
